@@ -3,6 +3,7 @@
     "description": "create text",
     "type": "testcomposesr",
     "license": "MIT",
+    "require": {},
     "authors": [
         {
             "name": "DangDinhTuyen",
@@ -14,5 +15,6 @@
             "DangDinhTuyen\\TestComposer\\": "/"
         }
     },
-    "require": {}
+    "minimum-stability": "dev" 
+    
 }
