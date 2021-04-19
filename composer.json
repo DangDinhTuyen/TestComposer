@@ -1,9 +1,6 @@
 {
     "name": "dangdinhtuyen/test-composer",
     "description": "create text",
-    "type": "testcomposesr",
-    "license": "MIT",
-    "require": {},
     "authors": [
         {
             "name": "DangDinhTuyen",
